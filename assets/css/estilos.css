@@ -14,11 +14,15 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 600px;
-  width: 450px;
+  height: fit-content;
+  width: 400;
+  padding: 100px;
+  margin: 20px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: 100;
+  display: flex;
+  
 }
 
 /* Contacto */
